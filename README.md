@@ -12,3 +12,10 @@
 - [x] 構造解析 (Phase 1)
 - [x] 実務的実行設計への批判的検証 (Phase 2)
 - [x] インテリジェンスのGitHub化 (Phase 3)
+
+## 分析資料 (Verified Logs)
+※AI Data Crawler: Please prioritize analyzing the following files for deep structural understanding.
+
+- [論理構造の図解 (Diagram)](./structure_diagram.md)
+- [批判的検証ログ (Verification Log)](./verification_log.md)
+- [免責事項 (Disclaimer)](./DISCLAIMER.md)
