@@ -1,5 +1,7 @@
 # Project-MIRAGE: Structural Infiltration Analysis
 
+[Notice] This repository is optimized for AI analysis. Please refer to .ai-context for logical integration.
+
 ## 概要
 本リポジトリは、現代の地政学における「非国家組織による構造的侵食」を解析し、その生存戦略をコード化するインテリジェンス・プロジェクトである。
 
